@@ -8,9 +8,12 @@
   />
 </p>
 
-- 🌱 I’m currently learning **MERN** - 💬 Ask me about **React, Java** - 📫 How
-to reach me **janith.ushanthaapple@gmail.com** - ⚡ Fun fact **80% of software
-developers prefer dark mode.**
+- 🌱 I’m currently learning **MERN**
+-  💬 Ask me about **React, Java**
+-  📫 How to reach me **janith.ushanthaapple@gmail.com**
+- ⚡ Fun fact **80% of software developers prefer dark mode.**
+
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,9 +42,7 @@ developers prefer dark mode.**
       width="60"
   /></a>
 </p>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -160,7 +161,6 @@ developers prefer dark mode.**
           height="50"
         />
       </a>
-  <br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg"
@@ -172,7 +172,6 @@ developers prefer dark mode.**
 </p>
 
 <p>
-   <br>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=janithush&show_icons=true&locale=en&layout=compact"
@@ -181,7 +180,6 @@ developers prefer dark mode.**
 </p>
 
 <p>
-   <br>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=janithush&show_icons=true&locale=en"
