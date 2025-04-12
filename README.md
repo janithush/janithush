@@ -25,7 +25,7 @@
       height="50"
       width="60"
   /></a>
-  <a href="https://linkedin.com/in/janith ushantha" target="blank"
+  <a href="https://linkedin.com/in/janithushantha" target="blank"
     ><img
       align="center"
       src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"
